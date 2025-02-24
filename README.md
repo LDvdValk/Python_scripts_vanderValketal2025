@@ -7,5 +7,6 @@ This folder provides the scripts used for analysing data and creating the figure
 - EC_structure_parameter.py: This .py contains functions to compute structure parameters from 10 Hz EC data.
 - Spectrum.py: This .py file contains functions to compute and smooth power spectra.
 - theoretical_spectrum_24_2.py: This .py file contains functions to compute theoretical spectra and retained amount of variance.
+- Convert_signal.py: This .py file contains some functions used for conversion of dB to mW etc. (Also contains functions for rainfall retrieval)
 
 Reference: L.D. van der Valk et al. (2025), 'Use of commercial microwave links as scintillometers: potential and limitations towards evaporation estimation' (under review) https://doi.org/10.5194/egusphere-2024-2974
